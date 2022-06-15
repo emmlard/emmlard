@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh)]
+![MasterHead](https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh)
 <h1 align="center">Hi, I'm Emmanuel 👋</h1>
 <h3 align="center">I'm a Fullstack Developer & Cloud Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
