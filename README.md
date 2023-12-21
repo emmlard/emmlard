@@ -1,6 +1,6 @@
 # Emmanuel Oladapo
 
-Hello, I'm Emmanuel Oladapo, a geophysicist fascinated by seismic data and on a journey to become a well-rounded professional through data engineering and data science.
+Hello, I'm Emmanuel Oladapo, a geophysicist passionate about uncovering insights from seismic data and translating them into Python-powered solutions.
 
 ## Profile
 
