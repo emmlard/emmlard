@@ -6,7 +6,7 @@ Hello, I'm Emmanuel Oladapo, a geophysicist passionate about uncovering insights
 
 - 🌍 Geophysicist | Seismic Explorer
 - 🏗️ Builder at heart, specializing in design and modeling
-- 💻 Data Engineer in the making | Python Enthusiast
+- 💻 Data Engineer
 - 📊 Aspiring Data Scientist
 
 ## Current Focus
